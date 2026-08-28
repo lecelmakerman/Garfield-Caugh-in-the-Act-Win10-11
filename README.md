@@ -1,3 +1,5 @@
+![Texto alternativo](garfield.jpg)
+
 # Garfield: Caught in the Act (PC) – Fully Functional Windows 10/11 Setup (CD Audio Fixed)
 
 This archive preserves a fully working setup of Garfield: Caught in the Act for modern systems, including Windows 10/11.
